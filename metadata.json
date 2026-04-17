@@ -1,0 +1,6 @@
+{
+  "name": "Nhận Xét thường xuyên Học Sinh",
+  "description": "Ứng dụng AI tạo lời nhận xét đánh giá thường xuyên cho học sinh tiểu học theo Thông tư 27/2020 và 32/2018 của Bộ GD\u0026ĐT. Cho phép chọn môn học, lớp, tháng và tải lên tài liệu để tạo 50 lời nhận xét phù hợp, mang tính động viên và có thể xuất ra file Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
